@@ -13,9 +13,9 @@ I created a custom class with the core stack operations:
 
 The push() method is enhanced to accept multiple items at once using *args.
 
-[Click here to view the PY file](https://github.com/JayaraniArunachalam/Days-between-two-dates/blob/main/Day%2011%20%20Calculate%20the%20days%20between%20two%20dates.py)
+[Click here to view the PY file](https://github.com/JayaraniArunachalam/Data-Structures/blob/main/Day%2013%20Implement%20a%20stack%20with%20push%2C%20pop%2C%20and%20peek.py)
 
-[OUTPUT SCREEENSHOT](https://github.com/JayaraniArunachalam/Days-between-two-days/blob/main/Calculate%20days%20between%20dates.png)
+[OUTPUT SCREEENSHOT](https://github.com/JayaraniArunachalam/Data-Structures/blob/main/Data%20Structures%20Stack.png)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/jayarani-arunachalam-23jun1990/)
 
